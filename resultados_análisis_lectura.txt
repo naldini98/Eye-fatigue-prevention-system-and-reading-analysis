@@ -1,0 +1,16 @@
+Resultados de la Detección de Pupilas
+Fecha y Hora: 2025-02-17 12:13:02
+Tiempo total de ejecución: 1 minutos y 14 segundos
+Total de Fijaciones: 2
+Total de Sacádicos: 43
+Total de Regresiones: 10
+Total de Interrupciones: 2
+-------------------------------------------
+Evaluación de la Eficiencia Lectora
+Tiempo total de lectura: 1 minutos y 14 segundos
+Sacádicos por segundo: 0.58
+Porcentaje de regresiones: 23.26%
+Interrupciones por minuto: 1.62
+Nivel de eficiencia lectora: Buena eficiencia lectora
+-------------------------------------------
+⚠️ Muchas regresiones detectadas: posible dificultad de comprensión.
