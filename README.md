@@ -60,7 +60,8 @@ Sugerencias para mejorar
 ## 📥 ¿Cómo probarlo?
 1. Descarga los archivos
 2. Instala Python
-3. Ejecuta `python sistema_fatiga.py`
+3. Ejecutar "ANÁLISIS DE LECTURA v0.py" para realizar el análisis y la evaluación de la eficiencia lectora.
+4. Ejecutar "FATIGA VISUAL v0.py" para realizar el monitoreo en tiempo real de los movimientos oculares en tareas que demandan concentración visual y evaluar si existen indicios de fatiga ocular.
 
 ---
 
